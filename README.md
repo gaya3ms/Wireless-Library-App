@@ -1,4 +1,4 @@
-Wireless Library App - React native 
+Wireless Library App - React native- Connected to Firestore Google database system
 
 A simple and innovative school library management system.
 
